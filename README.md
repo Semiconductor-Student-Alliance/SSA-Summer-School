@@ -21,3 +21,5 @@ Community Oriented - Enter Framework Here (How Can SSA Introduce Semiconductors 
 
 # What do we need?
 We need help with planning the logistics:  Developing This Github with Educational Resources, Activities, Registration Forms, Teaching Assistants, Industry Outreach, Marketing of the Summer School to Universities, Certification Development (reaching out to partners), Sponsorship Engagement, MC Training for Summer School, Volunteer Development, etc. etc.
+
+FYI I suck with Github, so volunteers please make this pretty lol.  Greatly appreciated.
